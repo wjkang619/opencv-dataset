@@ -1,0 +1,1 @@
+python dataset-tools.py  --process_type=resize_square --file_extension=jpg --input_folder=D:\imet-2019-fgvc6\B\
