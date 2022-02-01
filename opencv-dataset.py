@@ -259,7 +259,7 @@ def makeResize(img,filename,scale):
 
 
 def makeResizeSquare(img,filename,scale):
-	remakePath = args.input_folder + str('_modified')+"\\"
+	remakePath = args.input_folder + str('_modified')
 	if not os.path.exists(remakePath):
 		os.makedirs(remakePath)
 
